@@ -1,0 +1,46 @@
+body {
+    font-family: 'Montserrat','Segoe UI', sans-serif;
+}
+.container {
+    border: 3px solid black;
+    width: 350px;
+    display: block;
+    margin: auto;
+    margin-top: 100px;
+    padding: 40px;
+    box-shadow: 8px 8px 8px rgba(0,0,0,0.5);
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    color: white;
+}
+.colors {
+    display: block;
+    text-align: center;
+}
+#timeFormat {
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#clock {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 35px;
+    border: 5px solid black;
+    padding: 10px;
+}
+button {
+    border: 1px solid black;
+    padding: 12px 20px;
+    box-shadow: 3px 3px #000;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#timeframe {
+    text-align: center;
+    color: white;
+    margin-top: 40px;
+    font-size: 35px;
+}
